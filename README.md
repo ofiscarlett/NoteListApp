@@ -18,8 +18,8 @@ This is an Android application practice from OAMK. Using Android studio, java an
 
 ## Screenshots
 ![Home Screen](https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppHomeScreen.png)
-![Edit Note Screen](<URL to edit note screen screenshot>)
-![Empty State Screen](<URL to empty state screen screenshot>)
+![Edit Note Screen](https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppEditNoteScreen.png)
+![Note View Screen](https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppNoteViewScreen.png)
 *Screenshots of the app in action.*
 
 ## Installation and Setup
