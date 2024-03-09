@@ -17,7 +17,7 @@ This is an Android application practice from OAMK. Using Android studio, java an
 - <Any other features>
 
 ## Screenshots
-![Home Screen](<URL to home screen screenshot>)
+![Home Screen](https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppHomeScreen.png)
 ![Edit Note Screen](<URL to edit note screen screenshot>)
 ![Empty State Screen](<URL to empty state screen screenshot>)
 *Screenshots of the app in action.*
