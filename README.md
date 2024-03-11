@@ -11,22 +11,25 @@ This is an Android application practice from OAMK. Using Android studio, java an
 
 
 ## Features
-- Note-taking with options to add, edit, and delete notes
-- Easy navigation between the home screen and edit note screen
-- Empty state screen with a prompt to add a new note if the note list is empty
-- <Any other features>
+- Note- Users can add, edit, and delete notes by their own needed.
+- Easy - navigation between the home screen and edit note screen, no need to swap to other screen.
+- Empty - state screen with a prompt to add a new note if the note list is empty.
+- Delete - Application will send notice to remind users if they really want to delete, in case mis-delete.
 
 ## Screenshots
-![Home Screen] (https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppHomeScreen.png)
-![Edit Note Screen] (https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppEditNoteScreen.png)
-![Note View Screen](https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppNoteViewScreen.png)
-![Deltet Note Screen](https://github.com/ofiscarlett/NoteListApp/blob/main/NoteAppNoteViewScreen.png)
-*Screenshots of the app in action.*
+Home Screen             |  Edit Note Screen
+:-------------------------:|:-------------------------:
+![Home Screen](NoteAppHomeScreen.png)  |  ![Edit Note Screen](NoteAppEditNoteScreen.png)
+
+Note View Screen | Delete Note Confirmation
+------------ | -------------
+![Note View](NoteAppNoteViewScreen.png) | ![Delete Note](NoteAppDeleteNoticeScreen.png)
+
 
 ## Installation and Setup
-To set up this project locally, follow these steps:
-1. Clone the repository: `git clone <repository URL>`
-2. Open the project in <IDE Name> and sync Gradle files
+To set up and use this project locally, follow these steps:
+1. Clone the repository: `https://github.com/ofiscarlett/NoteListApp.git`
+2. Open the project in Android Studio or Android phone and sync Gradle files
 3. Run the app on your device or emulator
 
 ## Usage
@@ -35,9 +38,6 @@ To set up this project locally, follow these steps:
 - **Delete a Note**: Swipe a note left/right or select a note to reveal the delete option.
 
 ## Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Appreciated Jukka Nevalainen kindly guide for first Mobile with Native Language task to complete this practice.
+This is for the Mobile Programming with Native Technologies ID00CS48-3003 OAMK lecture paractice.
 
-Please refer to [CONTRIBUTING.md](<URL to CONTRIBUTING.md>) for guidelines on how to contribute to this project.
-
-## License
-This project is licensed under the <License Name> License - see the [LICENSE.md](LICENSE.md) file for details.
